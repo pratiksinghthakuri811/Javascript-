@@ -5,7 +5,7 @@
 // "Go" for green
 // "Invalid color" for any other input
 
-let color="";
+let color="red";
 switch(color){
     case"red":
     console.log("stop");

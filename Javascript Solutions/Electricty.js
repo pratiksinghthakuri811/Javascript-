@@ -5,7 +5,7 @@
 // 101-200 units → Rs. 10 per unit
 // Above 200 units → Rs. 12 per unit
 
-let units=120;
+let units=50;
 let bill;
 if (units <=50){
     bill=units*5;
